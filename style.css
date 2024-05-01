@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    background-color: pink;
+    text-align: center;
+    
+}
+
+h1{
+    font-size: 60px;
+}
+h2{margin: 50px;}
+a{
+    text-decoration: none;
+    color:gray;
+}
+a:hover{
+    color: #000;
+}
+
+#main h1{
+    font-size: 100px;
+    margin: 50px
+}
+
+ul{
+    list-style: none;
+}
+
+ol{
+    list-style-position: inside;
+   
+}
+ol li,ul li{
+    padding: 8px;
+}
